@@ -1,0 +1,6 @@
+.venv/
+token.json
+config.json
+*.pgn
+__pycache__/
+*.pyc
